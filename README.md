@@ -1,4 +1,4 @@
 FinalProject
 ============
 
-Final Software Engineering Project documents and maybe code
+Final Software Engineering Project documents and code.
